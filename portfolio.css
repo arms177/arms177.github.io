@@ -4,10 +4,10 @@
     margin-top: 20px;
 }
 .short-description {
-  color: purple;
+  color: 'purple';
 }
 .link {
-  color: orange;
+  color: 'orange';
   text-decoration: none;
   padding-right: 10px;  
 }
