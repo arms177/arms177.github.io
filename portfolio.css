@@ -9,6 +9,6 @@
 p {
   font-style: italic;
 }
-nav .navbar-nav li a{
+nav .navbar .navbar-brand a{
   color: 'lightcoral' !important;
 } 
