@@ -7,11 +7,11 @@
     margin-top: 20px;
 }
 .short-description {
-  color: 'purple';
+  color: #cc8899;
 }
 p {
   font-style: italic;
 }
 nav .navbar .navbar-brand a{
-  color: 'lightcoral' !important;
+  color: #f08080 !important;
 } 
