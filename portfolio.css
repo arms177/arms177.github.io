@@ -12,9 +12,10 @@
 p {
   font-style: italic;
 }
-nav .navbar .navbar-brand a{
-  color: #f08080 !important;
-} 
 h2, .container {
   text-align: center;
+}
+.link {
+ color: purple;
+ text-decoration: none; 
 }
