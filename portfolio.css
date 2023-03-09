@@ -15,3 +15,6 @@ p {
 nav .navbar .navbar-brand a{
   color: #f08080 !important;
 } 
+h2, .container {
+  text-align: center;
+}
