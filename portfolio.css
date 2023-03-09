@@ -6,14 +6,14 @@
 .short-description {
   color: 'purple';
 }
-.link {
+/*.link {
   color: 'orange';
   text-decoration: none;
   padding-right: 10px;  
-}
+}*/
 p {
   font-style: italic;
 }
-.navbar-brand {
+.navbar-brand .link {
   color: 'lightcoral';
 }
