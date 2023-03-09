@@ -6,14 +6,9 @@
 .short-description {
   color: 'purple';
 }
-/*.link {
-  color: 'orange';
-  text-decoration: none;
-  padding-right: 10px;  
-}*/
 p {
   font-style: italic;
 }
-.navbar-brand .link {
-  color: 'lightcoral';
-}
+nav .navbar-nav li a{
+  color: 'lightcoral' !important;
+} 
